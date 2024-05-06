@@ -73,9 +73,6 @@
 <br/>
 
 
-<a href="https://wakatime.com/@018c1246-8e31-44a8-95d6-cb8e9998ccda"><img src="https://wakatime.com/badge/user/018c1246-8e31-44a8-95d6-cb8e9998ccda.svg" alt="Total time coded since Nov 27 2023" /></a>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 
