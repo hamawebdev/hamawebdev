@@ -26,6 +26,7 @@
 - 📫 How to reach me 
 
 
+<img src="https://skillicons.dev/icons?i=linkedin" href="https://www.linkedin.com/in/ayoub-mohamed-amine-hamadouche/" />
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
