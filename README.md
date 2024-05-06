@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **React and NodeJS**
 
-- 📫 How to reach me **ayoubhamad0101@gmail.com**
+- 📫 How to reach me 
 
 
 
