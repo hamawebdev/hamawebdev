@@ -25,8 +25,9 @@
 
 - 📫 How to reach me 
 
+**telegram**
 <a href="https://t.me/awebcodes">
-  <img src="https://skillicons.dev/icons?i=telegram" alt="Linkedin">
+  <img src="https://skillicons.dev/icons?i=arch" alt="telegram">
 </a>
 
 
