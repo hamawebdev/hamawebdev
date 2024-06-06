@@ -19,7 +19,7 @@
 <br><br>
 
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Full-Stack Web development**
 
 - 💬 Ask me about **React**
 
