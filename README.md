@@ -27,7 +27,7 @@
 
 **telegram**
 <br>
-<a href="https://t.me/awebcodes">
+<a href="https://t.me/hamawebdev">
   <img src="https://skillicons.dev/icons?i=arch" alt="telegram">
 </a>
 
