@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayoub Mohamed Amine</h1>
-<h3 align="center">A passionate Front-end Web Developer from Algeria !</h3>
+<h3 align="center">A passionate Web Developer from Algeria !</h3>
 <p align="center"> I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 
 
@@ -19,12 +19,6 @@
 <br><br>
 
 
-- 🌱 I’m currently learning **Full-Stack Web development**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me 
-
 **telegram**
 <br>
 <a href="https://t.me/hamawebdev">
@@ -37,10 +31,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,python,bash,shell,c,c++" />
   </a>
 </p>
 
