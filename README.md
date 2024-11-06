@@ -26,6 +26,12 @@
   <img src="https://skillicons.dev/icons?i=arch" alt="telegram">
 </a>
 
+**Linkedin**
+<br>
+<a href="https://www.linkedin.com/in/hamadouche-ayoub-380735336">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin">
+</a>
+
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
