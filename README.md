@@ -1,62 +1,53 @@
+# Hi, I'm Ayoub Hamadouche 👋
 
+🚀 **Full-Stack Developer** | Building modern, scalable, and user-friendly web applications.    
+🌱 Always learning, always building.
 
-<h1 align="center">Hi 👋, I'm Ayoub Mohamed Amine</h1>
-<h3 align="center">A passionate Web Developer from Algeria !</h3>
-<p align="center"> I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+---
 
+## 🛠️ **Tech Stack**
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📈 **GitHub Stats**
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="50" />
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamawebdev&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamawebdev&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
-<br>
 
+## 🌱 **What I'm Currently Learning**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+- Advanced TypeScript patterns
+- GraphQL for API development
+- Docker for containerization
+- Microservices architecture
 
+---
 
-**telegram**
-<br>
-<a href="https://t.me/hamawebdev">
-  <img src="https://skillicons.dev/icons?i=arch" alt="telegram">
-</a>
+## 💬 **Let's Connect!**
 
-**Linkedin**
-<br>
-<a href="https://www.linkedin.com/in/hamadouche-ayoub-380735336">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamadouche-ayoub-380735336)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-hamawebdev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamawebdev@gmail.com)
 
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,python,bash,c,c++" />
-  </a>
-</p>
-
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-  </a>
-</p>
-
-<br/>
-
-
-
-![alt text](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
-
-
-
+---
