@@ -29,8 +29,8 @@
 
 ## 📈 **GitHub Stats**
 <div align="center">
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamawebdev&show_icons=true&theme=radical&hide_border=true)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamawebdev&layout=compact&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamawebdev&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamawebdev&layout=compact&theme=radical&hide_border=true)
 </div>
 
 ---
